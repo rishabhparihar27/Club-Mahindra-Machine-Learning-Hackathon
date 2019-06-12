@@ -1,4 +1,4 @@
-# Club-Mahindra-Machine-Learning-Hackathon
+# Analytics Vidhya Club-Mahindra-Machine-Learning-Hackathon
 # Rank 34/984 solution
 
 # Problem 
